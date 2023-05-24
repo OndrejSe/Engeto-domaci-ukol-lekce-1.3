@@ -1,0 +1,56 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+    background-color: lightblue;
+    padding: 5px   
+}
+.section {
+    background-color: blanchedalmond;
+}
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: dimgrey;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    font-size: 20px;
+    margin-left: 10px;
+}
+img {
+    border: solid 2px midnightblue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bold-text {
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline lightskyblue;
+}
+.table-text {
+    text-align: left;
+}
+.table-cell {
+    padding-left: 0px;
+    padding-right: 15px;
+    padding-bottom: 5px
+}
+.list {
+    padding-bottom: 5px
+}
+.list-bold {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.list-underline {
+    text-decoration: underline;
+}
